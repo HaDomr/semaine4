@@ -1,0 +1,34 @@
+.container {
+    border: 4px solid black;
+    background-color: blueviolet;
+    display:flex;
+    margin:15px;
+} 
+
+.bloc{
+    margin: 15px;
+}
+
+.droite{
+    justify-content: flex-end;
+}
+
+.centre{
+    justify-content: center;
+}
+
+.gauche{
+    justify-content: flex-start;
+}
+
+.espace-entre{
+    justify-content: space-between;
+}
+
+.autour{
+    justify-content: space-around;
+}
+
+.egal{
+    justify-content: space-evenly;
+}

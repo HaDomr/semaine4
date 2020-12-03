@@ -1,0 +1,38 @@
+div .rond {
+    border-radius: 100%;
+    display: inline-block;
+
+
+
+
+
+}
+
+
+.rond1{
+    width: 140px;
+    height:140px ;
+    background-color: red;
+    border-radius: 100%;
+margin: auto;
+display: inline-block;
+}
+
+div.rond2
+{ width: 100px;
+    height:100px ;
+    background-color: green;
+    border-radius: 100%;
+    margin: 20px;
+    display: inline-block;
+}
+
+div.rond3
+{ width: 70px;
+    height:70px ;
+    background-color: blue;
+    border-radius: 100%;
+    margin: 15px;
+      display: inline-block;
+    }
+
